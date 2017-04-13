@@ -1,0 +1,3 @@
+Angajatul vlad s-a logat la : Thu Apr 13 08:20:53 EEST 2017
+vlad a platit factura 50 pentru contul 1 la data : Thu Apr 13 08:22:13 EEST 2017
+vlad s-a delogat la : Thu Apr 13 08:22:17 EEST 2017
